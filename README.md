@@ -34,6 +34,7 @@ This **Spring Boot CRUD Application** provides a robust solution for managing em
 | **MySQL**       | Server version: 9.0.1 MySQL Community Server - GPL |
 | **Maven**       | Version 3.8.4      |
 | **Angular CLI** | 18.2.8             |
+| **Go**          | 1.23.2             |
 |**Package Manager**| npm 9.9.3        |
 | **OS**          |win32 x64           |
 | **Node**        | Version 20.18.0    |
